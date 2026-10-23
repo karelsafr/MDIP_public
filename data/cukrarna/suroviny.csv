@@ -1,0 +1,15 @@
+surovina_id,nazev_suroviny,jednotka,velikost_baleni,cena_baleni_kc
+S01,Hladká mouka,g,1000,32
+S02,Cukr krupice,g,1000,28
+S03,Máslo,g,250,60
+S04,Vejce,ks,10,55
+S05,Hořká čokoláda,g,500,160
+S06,Smetana,ml,1000,145
+S07,Mléko,ml,1000,24
+S08,Tvaroh,g,250,32
+S09,Mascarpone,g,250,65
+S10,Sušenky,g,200,32
+S11,Citron,ks,1,12
+S12,Maliny,g,250,90
+S13,Mandlová mouka,g,500,190
+S14,Moučkový cukr,g,500,23

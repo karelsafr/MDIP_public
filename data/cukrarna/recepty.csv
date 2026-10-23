@@ -1,0 +1,7 @@
+recept_id,nazev,kategorie,kusu_davka,prodejni_cena_kc,prace_min_davka,ostatni_naklady_davka_kc,postup
+R01,Čokoládové brownie,Řezy,12,59,35,36,"Rozpusťte čokoládu s máslem. | Vmíchejte vejce, cukr a mouku. | Pečte ve formě přibližně 25 minut při 170 °C. | Po vychladnutí rozdělte na 12 kusů."
+R02,Citronový cheesecake,Dorty,12,89,50,61,"Připravte korpus ze sušenek a másla. | Smíchejte tvaroh, mascarpone, smetanu, cukr, vejce a citron. | Naplňte formu a pečte přibližně 55 minut při 160 °C. | Vychlaďte a rozdělte na 12 porcí."
+R03,Smetanový větrník,Odpalované,10,79,70,50,"Z mléka, másla a mouky připravte odpalované těsto; postupně vmíchejte vejce. | Nastříkejte 10 kusů a upečte přibližně 30 minut při 190 °C. | Smetanu vyšlehejte s částí cukru. | Naplňte vychladlé korpusy a zbytek cukru použijte na karamel."
+R04,Citronový řez,Řezy,12,55,40,36,"Utřete máslo s cukrem a vejci. | Přidejte mouku, mléko a citron. | Pečte přibližně 30 minut při 175 °C. | Po vychladnutí rozdělte na 12 kusů."
+R05,Čokoládová makronka,Drobné pečivo,20,22,90,80,"Smíchejte mandlovou mouku s moučkovým cukrem. | Vyšlehejte bílky s krupicovým cukrem a spojte obě směsi. | Nastříkejte 40 skořápek, nechte oschnout a upečte přibližně 14 minut při 150 °C. | Naplňte krémem z čokolády, smetany a másla; spojte do 20 makronek."
+R06,Malinová tartaletka,Tartaletky,8,95,65,64,"Z mouky, másla, cukru a vajec připravte těsto. | Vyložte 8 formiček a upečte přibližně 20 minut při 175 °C. | Naplňte krémem z mascarpone a smetany. | Rozdělte maliny na 8 tartaletek."
